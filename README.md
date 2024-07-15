@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-- 🔭 I’m currently working on my [Portfolio](https://vinni99.github.io/main-portfolio/)
+- 🔭 I’m currently working on my [Portfolio](https://vinni99.github.io/dev-portfolio/)
 
 - 🌱 I’m currently learning **React Native**
 
